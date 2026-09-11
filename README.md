@@ -14,7 +14,7 @@ This [Lean](https://lean-lang.org/) adaptation of [Algorithm Design with Haskell
 
 The main goals of this adaptation are:
 
-- to demonstrate the expressive power of dependent types in representing and reasoning about algorithms,
+- to demonstrate the expressive power of dependent types in reasoning about algorithms,
 - to show how informal proofs can be systematically formalized,
 - to explore how different refinements of the same algorithm can be proven equivalent.
 - and to explore how to prove termination of functional algorithms.
